@@ -208,10 +208,6 @@ plt.show()
 
 ---
 
-## 📝 Licencia
-
-Este proyecto está bajo la licencia MIT. Ver [LICENSE](LICENSE) para más detalles.
-
 <div align="center">
 
 **¡Bienvenido al mundo del análisis de datos con Python! 🚀**
