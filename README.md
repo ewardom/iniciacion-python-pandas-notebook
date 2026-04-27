@@ -212,14 +212,6 @@ plt.show()
 
 Este proyecto está bajo la licencia MIT. Ver [LICENSE](LICENSE) para más detalles.
 
----
-
-## ⭐ ¿Te Gustó?
-
-Si este repositorio te fue útil, no olvides darle una ⭐ en GitHub para apoyar el proyecto.
-
----
-
 <div align="center">
 
 **¡Bienvenido al mundo del análisis de datos con Python! 🚀**
