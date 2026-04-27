@@ -198,18 +198,6 @@ plt.show()
 
 ---
 
-## 🤝 Contribuciones
-
-¿Encontraste un error? ¿Tienes mejoras?
-
-1. Fork el repositorio
-2. Crea una rama: `git checkout -b feature/mejora`
-3. Commit tus cambios: `git commit -m 'Añade mejora'`
-4. Push a la rama: `git push origin feature/mejora`
-5. Abre un Pull Request
-
----
-
 ## 📖 Recursos Adicionales
 
 - [Documentación oficial de Pandas](https://pandas.pydata.org/docs/)
@@ -223,15 +211,6 @@ plt.show()
 ## 📝 Licencia
 
 Este proyecto está bajo la licencia MIT. Ver [LICENSE](LICENSE) para más detalles.
-
----
-
-## 📞 Contacto y Soporte
-
-Si tienes preguntas:
-- 📧 Abre un **Issue** en GitHub
-- 💬 Consulta la **Documentación**
-- 🔗 Revisa los **Recursos** del proyecto
 
 ---
 
